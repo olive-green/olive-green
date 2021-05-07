@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pankaj Rathore</h1>
+<h1 align="center">Hey! 👋, I'm Pankaj Rathore</h1>
 <h3 align="center">Full-Stack Web developer</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/@_pankajrathore-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_pankajrathore__)

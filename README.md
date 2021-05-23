@@ -5,8 +5,8 @@
 [![Instagram Badge](https://img.shields.io/badge/@_pankajrathore-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_pankajrathore__)
 [![Linkedin Badge](https://img.shields.io/badge/pk1853894-30302f?style=flat&logo=linkedin)](https://linkedin.com/in/pk1853894)
 [![Gmail Badge](https://img.shields.io/badge/pk1853894@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:pk1853894@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/photon1006-30302f?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/photon1006)
 <img src="https://komarev.com/ghpvc/?username=olive-green&label=Profile%20views&color=0e75b6&style=flat" alt="olive-green" />
-<a href="https://twitter.com/photon1006" target="blank"><img src="https://img.shields.io/twitter/follow/photon1006?logo=twitter&style=for-the-badge" alt="photon1006" /></a> 
 
 - 🌱 I’m currently learning **ReactJS,Nodejs**
 

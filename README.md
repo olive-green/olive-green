@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/photon1006-30302f?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/photon1006)
 <img src="https://komarev.com/ghpvc/?username=olive-green&label=Profile%20views&color=0e75b6&style=flat" alt="olive-green" />
 
-- 🌱 I’m currently learning **ReactJS,Nodejs**
+- 🌱 I’m currently learning **NuxtJs**
 
 - 👯 I’m looking to collaborate on **MERN Project**
 

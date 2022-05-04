@@ -1,18 +1,18 @@
 ![gif](programming.gif)
 <h1 align="center">Hey! there👋, I'm Pankaj Rathore</h1>
-<h3 align="center">Full-Stack Web developer</h3>
+<h3 align="center">Data Scientist</h3>
 
-[![Instagram Badge](https://img.shields.io/badge/@_pankajrathore-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_pankajrathore__)
+[![Instagram Badge](https://img.shields.io/badge/@pankajj.rathore-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pankajj.rathore)
 [![Linkedin Badge](https://img.shields.io/badge/pk1853894-30302f?style=flat&logo=linkedin)](https://linkedin.com/in/pk1853894)
 [![Gmail Badge](https://img.shields.io/badge/pk1853894@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:pk1853894@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/photon1006-30302f?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/photon1006)
 <img src="https://komarev.com/ghpvc/?username=olive-green&label=Profile%20views&color=0e75b6&style=flat" alt="olive-green" />
 
-- 🌱 I’m currently learning **NuxtJs**
+- 🌱 I’m currently exploring **Data Science**
 
 - 👯 I’m looking to collaborate on **MERN Project**
 
-- 💬 Ask me about **PHP,Javascript,DSA**
+- 💬 Ask me about **Machine learning,Javascript,DSA**
 
 - 📫 How to reach me **pk1853894@gmail.com**
 

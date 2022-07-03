@@ -24,7 +24,7 @@
 
 <p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olive-green&layout=compact&hide=php,c,html,roff&langs_count=10" alt="olive-green" /> </p>
 
-<p>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=olive-green&show_icons=true&locale=en" alt="olive-green" /> </p> </p>
+<p>&nbsp;&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=olive-green&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" /> </p> </p>
 
 
 

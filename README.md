@@ -1,6 +1,6 @@
 ![gif](programming.gif)
 <h1 align="center">Hey! there👋, I'm Pankaj Rathore</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/@pankajj.rathore-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pankajj.rathore)
 [![Linkedin Badge](https://img.shields.io/badge/pk1853894-30302f?style=flat&logo=linkedin)](https://linkedin.com/in/pk1853894)
